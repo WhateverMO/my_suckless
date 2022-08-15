@@ -22,3 +22,27 @@
 [submodule "slock/slock"]
 	path = slock/slock
 	url = git://git.suckless.org/slock
+[submodule "dmenu"]
+	path = dmenu
+	url = /home/mominh/my_software/my_suckless/dmenu0/dmenu
+[submodule "dwm"]
+	path = dwm
+	url = /home/mominh/my_software/my_suckless/dwm0/dwm
+[submodule "scroll"]
+	path = scroll
+	url = /home/mominh/my_software/my_suckless/scroll0/scroll
+[submodule "slock"]
+	path = slock
+	url = /home/mominh/my_software/my_suckless/slock0/slock
+[submodule "slstatus"]
+	path = slstatus
+	url = /home/mominh/my_software/my_suckless/slstatus0/slstatus
+[submodule "st"]
+	path = st
+	url = /home/mominh/my_software/my_suckless/st0/st
+[submodule "surf"]
+	path = surf
+	url = /home/mominh/my_software/my_suckless/surf0/surf
+[submodule "tabbed"]
+	path = tabbed
+	url = /home/mominh/my_software/my_suckless/tabbed0/tabbed
