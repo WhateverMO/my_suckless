@@ -1,0 +1,24 @@
+[submodule "dmenu/dmenu"]
+	path = dmenu/dmenu
+	url = git://git.suckless.org/dmenu
+[submodule "scroll/scroll"]
+	path = scroll/scroll
+	url = git://git.suckless.org/scroll
+[submodule "dwm/dwm"]
+	path = dwm/dwm
+	url = git://git.suckless.org/dwm
+[submodule "tabbed/tabbed"]
+	path = tabbed/tabbed
+	url = git://git.suckless.org/tabbed
+[submodule "surf/surf"]
+	path = surf/surf
+	url = git://git.suckless.org/surf
+[submodule "st/st"]
+	path = st/st
+	url = git://git.suckless.org/st
+[submodule "slstatus/slstatus"]
+	path = slstatus/slstatus
+	url = git://git.suckless.org/slstatus
+[submodule "slock/slock"]
+	path = slock/slock
+	url = git://git.suckless.org/slock
